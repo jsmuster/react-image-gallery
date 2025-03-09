@@ -18,7 +18,7 @@ To get started with the project, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/image-gallery.git
+git clone https://github.com/jsmuster/react-image-gallery.git
 
 # Navigate to the project folder
 cd image-gallery
@@ -34,7 +34,7 @@ The app will be available at **http://localhost:3000**.
 
 ## 🛠 Tech Stack
 - **Frontend:** React, TypeScript, Redux Toolkit
-- **Styling:** Tailwind CSS / SCSS
+- **Styling:** CSS / SCSS
 - **State Management:** Redux Toolkit (optional: Zustand, Recoil)
 - **Image Handling:** Cloudinary / Unsplash API (if using an external image source)
 
@@ -63,9 +63,9 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ## 📬 Contact
 For any queries, feel free to reach out:
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🔗 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- ✉️ Email: [jsmastery@gamil.com](mailto:jsmastery@gamil.com)
+- 🐦 Medium: [@jsmuster](https://medium.com/@jsmuster)
+- 🔗 LinkedIn: [Arseniy Tomkevich ](https://www.linkedin.com/in/atomkevi/)
 
 ---
 Give this project a ⭐ if you like it! Happy coding! 🚀
