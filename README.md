@@ -63,7 +63,7 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ## 📬 Contact
 For any queries, feel free to reach out:
-- ✉️ Email: [jsmastery@gamil.com](mailto:jsmastery@gamil.com)
+- ✉️ Email: [jsmastery@gmail.com](mailto:jsmastery@gamil.com)
 - 🐦 Medium: [@jsmuster](https://medium.com/@jsmuster)
 - 🔗 LinkedIn: [Arseniy Tomkevich ](https://www.linkedin.com/in/atomkevi/)
 
